@@ -1,7 +1,7 @@
 # GO GAME-Secure Software Design and Programming
 
 <p align="center">ISA/SWE 681
-
+ 
  By
 
 Ankita Acharya (G01165373)
@@ -12,7 +12,7 @@ Jothi Arul Prakash Ponnusami (G01159998)
 
 (Under the guidance of David A. Wheeler)
 
-May 10, 2019</p>
+May 10, 2019 </p>
 
 
 

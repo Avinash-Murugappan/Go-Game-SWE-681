@@ -1,7 +1,5 @@
 # GO GAME-Secure Software Design and Programming
 
-**GO GAME**
-
 ### Secure Software Design and Programming
 
 ### ISA/SWE 681

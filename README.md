@@ -1,20 +1,20 @@
 # GO GAME-Secure Software Design and Programming
 
-<H1 align="center"> Secure Software Design and Programming</H1>
+<p align="center">ISA/SWE 681
 
-### ISA/SWE 681
+ By
 
-### By
+Ankita Acharya (G01165373)
 
-### Ankita Acharya (G01165373)
+Avinash Arunachalam Arunachalachettiar Murugappan (G01163980)
 
-### Avinash Arunachalam Arunachalachettiar Murugappan (G01163980)
+Jothi Arul Prakash Ponnusami (G01159998)
 
-### Jothi Arul Prakash Ponnusami (G01159998)
+(Under the guidance of David A. Wheeler)
 
-### (Under the guidance of David A. Wheeler)
+May 10, 2019</p>
 
-### May 10, 2019
+
 
 
 ## Ta ble of Co nte nts
